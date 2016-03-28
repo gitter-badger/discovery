@@ -1,0 +1,3 @@
+# discovery
+
+[![Gitter](https://badges.gitter.im/syeem/discovery.svg)](https://gitter.im/syeem/discovery?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
